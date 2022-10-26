@@ -1,7 +1,7 @@
 {
-    "name": "putra-botz",
+    "name": "DaniXd",
     "version": "3.1.0",
-    "description": "WhatsApp BOT By putra",
+    "description": "WhatsApp BOT By DaniXd",
     "main": "index.js",
     "type": "module",
     "engines": {
@@ -48,16 +48,16 @@
         "google-it",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Lucife-Putra/",
+    "homepage": "https://github.com/YTDANIBOTZ/",
     "author": {
-        "name": "Lucifer-MD"
+        "name": "DaniXd"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Lucife-Putra/test-Botz"
+        "url": "git+https://github.com/YTDANIBOTZ/FZBOT-V3"
     },
     "bugs": {
-        "url": "https://github.com/Lucife-Putra/test-Botz/issues"
+        "url": "https://github.com/YTDANIBOTZ/FZBOT-V3/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
